@@ -1,0 +1,13 @@
+h1{
+    color: steelblue;
+}
+p{
+    font-size: normal;
+}
+small{
+    display: block;
+}
+
+h3{
+    display: inline;
+}
